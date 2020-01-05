@@ -1,4 +1,4 @@
-package com.zr.kafka.chat;
+package com.kafka.chat;
 
 
 import org.springframework.boot.SpringApplication;
